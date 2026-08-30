@@ -91,16 +91,16 @@ The difference between training and testing accuracy indicates that the Decision
 
 ## Files
 
-- `Lab_4_A_27_Gaurav_Patel.ipynb` - Google Colab notebook containing the implementation
+- `Lab_4_B_04_SarveshHardas.ipynb` - Google Colab notebook containing the implementation
 - `winequality-red.csv` - Dataset used for the practical
 - `README.md` - Description of the practical
 
 ## Student Details
 
-**Name:** Gaurav Patel  
-**Roll No:** 27  
-**Section:** A  
-**Batch:** A2
+**Name:** Sarvesh Hardas 
+**Roll No:** 04
+**Section:** B 
+**Batch:** B1
 
 ## Conclusion
 
